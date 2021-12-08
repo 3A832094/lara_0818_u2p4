@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<body>
 @extends('layouts.master')
 @section('title', 'Clean Blog - Contact')
 @section('content')
@@ -64,7 +61,5 @@
       </div>
     </div>
   </div>
-@endsection
-</body>
 
-</html>
+@endsection
